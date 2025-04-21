@@ -1,4 +1,4 @@
-# zyuzublik-bot
+# test-tg-parser
 
 Telegram‑бот для приёма Excel‑файла с сайтами, парсинга цен и расчёта средней цены.
 
@@ -14,8 +14,8 @@ Telegram‑бот для приёма Excel‑файла с сайтами, па
 ## Установка
 
 ```bash
-git clone https://github.com/yourusername/zyuzublik-bot.git
-cd zyuzublik-bot
+git clone https://github.com/GogoTomat/test-tg-parser
+cd test-tg-parser
 
 python3 -m venv venv
 source venv/bin/activate
